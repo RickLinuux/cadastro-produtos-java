@@ -70,7 +70,7 @@ Este projeto é uma aplicação web em **Java** com **Spring Boot** que realiza 
 
 1. Clone o repositório:
    \`\`\`bash
-   git clone https://github.com/usuario/projeto-gerenciamento-produtos.git
+   git clone https://github.com/RickLinuux/cadastro-produtos-java.git
    \`\`\`
 2. Configure o banco de dados no arquivo \`application.properties\`.
 3. Execute o projeto:
