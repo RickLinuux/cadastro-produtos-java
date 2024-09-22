@@ -69,19 +69,19 @@ Este projeto é uma aplicação web em **Java** com **Spring Boot** que realiza 
 ### Executando o Projeto
 
 1. Clone o repositório:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/RickLinuux/cadastro-produtos-java.git
-   \`\`\`
+   ```
 2. Configure o banco de dados no arquivo \`application.properties\`.
 3. Execute o projeto:
-   \`\`\`bash
+   ```bash
    ./gradlew bootRun
-   \`\`\`
+   ```
 
 4. Acesse no navegador:
-   \`\`\`
+   ```
    http://localhost:8080/listarProdutos
-   \`\`\`
+   ```
 
 ### Exemplos na prática 
 #### Página de cadastro
