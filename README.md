@@ -29,7 +29,7 @@ Este projeto é uma aplicação web em **Java** com **Spring Boot** que realiza 
 
 ## Estrutura de Diretórios
 
-\`\`\`bash
+```bash
 ├── src
 │   ├── main
 │   │   ├── java
@@ -44,7 +44,7 @@ Este projeto é uma aplicação web em **Java** com **Spring Boot** que realiza 
 │   │   │   ├── static                           # Arquivos estáticos (CSS, JS)
 │   │   │   └── templates                        # Páginas Thymeleaf (HTML)
 │   └── test                                     # Testes da aplicação
-\`\`\`
+```
 
 ## Rotas da Aplicação
 
