@@ -37,13 +37,13 @@ Este projeto é uma aplicação web em **Java** com **Spring Boot** que realiza 
 │   │   │       └── br
 │   │   │           └── shakalinux
 │   │   │               ├── produtos
-│   │   │               │   ├── controller       # Controladores responsáveis pelas rotas e lógica
-│   │   │               │   ├── model            # Modelos de dados (ProdutoModel)
-│   │   │               │   └── repository       # Interfaces de repositório (ProdutoRepository)
+│   │   │               │   ├── controller     # Controladores responsáveis pelas rotas e lógica
+│   │   │               │   ├── model          # Modelos de dados (ProdutoModel)
+│   │   │               │   └── repository     # Interfaces de repositório (ProdutoRepository)
 │   │   ├── resources
-│   │   │   ├── static                           # Arquivos estáticos (CSS, JS)
-│   │   │   └── templates                        # Páginas Thymeleaf (HTML)
-│   └── test                                     # Testes da aplicação
+│   │   │   ├── static                         # Arquivos estáticos (CSS, JS)
+│   │   │   └── templates                      # Páginas Thymeleaf (HTML)
+│   └── test                                   # Testes da aplicação
 ```
 
 ## Rotas da Aplicação
